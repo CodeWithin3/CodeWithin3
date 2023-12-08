@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeWithin3
-- 👀 I’m interested in Coding, Working out, and Sports
+- 👀 I’m interested in Coding, Working Out, and Sports
 - 🌱 I’m currently learning C+, Azure
 - 💞️ I’m looking to collaborate on projects to better enhance my skills
 - 📫 How to reach me 678-310-3266
